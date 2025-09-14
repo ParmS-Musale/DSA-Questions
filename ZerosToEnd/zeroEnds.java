@@ -1,4 +1,4 @@
-
+package ZerosToEnd;
 public class zeroEnds {
     public static int pushToZero(int[] arr) {
         int n = arr.length;
