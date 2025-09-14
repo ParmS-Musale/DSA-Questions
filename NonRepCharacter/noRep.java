@@ -1,3 +1,4 @@
+
 public class noRep {
     public static char nonRepeting(String s) {
         int n = s.length();
